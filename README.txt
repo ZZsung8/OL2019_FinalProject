@@ -1,4 +1,4 @@
-Written by Eric Sung 04/25/19
+#Written by Eric Sung 04/25/19
 Optimization and Learning 2019 Final Project
 Folder: OL2019
 
